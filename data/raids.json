@@ -589,8 +589,10 @@
                 {
                     "NameJp": "不浄なる光（聖遺物）",
                     "NameEn": "Unholy Light (Relic)",
+                    "NameTh": "แสงชั่วร้าย (เรลิค)",
                     "DescEn": "When the purple relic's HP reaches 0%, increases the <b:ATK> of all students by <b>25%</b> but decreases their <d:HealEffectiveness> by <b>7,000</b> and decreases Hieronymus's <d:DEF> by <b>1,500</b>.\nDuring this effect, students under the effect of <d:Hieronymus> have their <b:HealEffectiveness> increased by a further <b>4,000</b> for 10s.\nThe purple relic cannot be targeted by normal attacks or basic skills.",
-                    "Parameters": [
+                    "DescTh": "เมื่อ HP ของเรลิคม่วงเหลือ 0%, เพิ่ม<b:ATK> <b>25%</b> ให้กับฝ่ายเราทั้งหมด แต่จะลด<d:HealEffectiveness> <b>7,000</b> และลด<d:DEF> ของไฮโรนีมัสลง <b>1,500</b>\nภายใต้เอฟเฟคนี้ ฝ่ายเราที่ได้รับ<d:Hieronymus>จะได้รับ<b:HealEffectiveness>เพิ่ม <b>4,000</b> เป็นเวลา 10 วินาที\nเรลิคม่วงจะไม่สามารถตกเป็นเป้าหมายของการโจมตีปกติหรือสกิลพื้นฐานได้",
+                    "Parameters": [ 
                         []
                     ],
                     "SkillType": "Passive",
